@@ -1,7 +1,12 @@
 [package]
 name = "qoa"
+description = "The QOA implementation for the rust programming language"
 version = "0.1.0"
 edition = "2021"
+homepage = "https://github.com/lino-levan/rust-qoa"
+repository = "https://github.com/lino-levan/rust-qoa.git"
+license-file = "LICENSE"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
